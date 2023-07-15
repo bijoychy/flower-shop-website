@@ -1,0 +1,26 @@
+/* common shared styles */
+body{
+    font-family: 'Lato', sans-serif;
+}
+
+/* nav related styles*/
+nav{
+    width: 1920px;
+    height: 50vh;
+    background: rgba(229, 84, 115, 0.10);
+    padding: 80px 100px ;
+    margin-top: 20px;
+}
+.section-title{
+    color: #272727;
+font-family: Lato;
+font-size: 60px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.section-description{
+    padding-left: 5px;
+    width: 25%;
+
+}
